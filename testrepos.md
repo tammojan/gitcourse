@@ -1,6 +1,7 @@
 ## Test repositories
 * Tom Franzen: https://github.com/tfranzen2/gittemp
 * Tammo Jan: https://github.com/tammojan/gittemp
+* Alexander Kutkin: https://github.com/akutkin/test.git
 * Harish Vedantham: https://github.com/harishved/hkv-gitclass
 * Betsey: https://github.com/eakadams/git_tutorial
 * Emma: https://github.com/emmavdw/gittemp.git
